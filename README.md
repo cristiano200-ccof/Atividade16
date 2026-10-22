@@ -8,10 +8,3 @@ Check out the [express documentation](https://expressjs.com/) for more informati
 
 
 
-
-Atividade 16
-Link do stackblitz : [ https://stackblitzstarters53yg2xco-n4bt--3020--2ed8f36d.local-credentialless.webcontainer.io/v1/hello]
-link da versao 2 : [https://stackblitzstarters53yg2xco-n4bt--3020--2ed8f36d.local-credentialless.webcontainer.io/v2/hello/pt]
-
-[https://stackblitzstarters53yg2xco-n4bt--3020--2ed8f36d.local-credentialless.webcontainer.io/v2/hello/en]
-[https://stackblitzstarters53yg2xco-n4bt--3020--2ed8f36d.local-credentialless.webcontainer.io/v2/hello/es]
